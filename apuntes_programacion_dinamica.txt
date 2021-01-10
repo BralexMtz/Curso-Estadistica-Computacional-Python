@@ -1,0 +1,30 @@
+Programacion dinamica
+El nombre no tiene nada que ver
+
+Richard Velman
+ -- Necesitaba financiamiento del gobierno
+  Por eso lo nombro de esa manera
+
+Programacion Dinamica es realmente matematicas
+Herramientas de Computer Science para optimizar
+- Subestructura Óptima. 
+    Una solucion global optima se puede encontrar al combinar soluciones optimas de subproblemas locales.
+
+- Problemas empalmados. 
+    Una solución óptima que involucra resolver el mismo problema en varias ocasiones.
+    fibonnacci.
+
+
+Se optimiza a traves de la Memoization
+ - La Memorizacion es una tecnica para guardar computos previos y evitar realizarlos nuevamente.
+ - Se utiliza un diccionario donde las consultas pueden ser O(1)
+ - Intercambiamos tiempo por espacio.
+
+OPTIMIZACION DE fibonnacci
+    Fn = Fn-1 + Fn-2 : Definicion recursiva
+ Es una solucion ineficiente.
+ 
+
+
+
+
